@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+ In this Program, I made a simple game of tic tac toe where at first  it "Flips a coin" to see who starts first. If it hits a 1, Player1 will start or else the computer will start. I randomized where the computer is gonna put its O. This project was really fun to code and am working on ways to improve the computer thinking so it actually will make proper moves to challange the player 
